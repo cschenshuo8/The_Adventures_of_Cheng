@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Icon.png</file>
+        <file>Res/button1.png</file>
+        <file>Res/button2.png</file>
+        <file>Res/startbutton1.png</file>
+        <file>Res/startbutton2.png</file>
+        <file>Res/exitbutton1.png</file>
+        <file>Res/exitbutton2.png</file>
+        <file>Res/camp.png</file>
+        <file>Res/elite monster.png</file>
+        <file>Res/monster.png</file>
+        <file>Res/shop.png</file>
+        <file>Res/saveandexitbutton.png</file>
+        <file>Res/unknown.png</file>
+        <file>Res/warrior_btn.png</file>
+        <file>Res/gobutton.png</file>
+        <file>Res/slim.png</file>
+        <file>Res/strike.png</file>
+        <file>Res/endyourturn.png</file>
+        <file>Res/defense.png</file>
+        <file>Res/sheild.png</file>
+        <file>Res/doublestrike.png</file>
+        <file>Res/angry.png</file>
+        <file>Res/breakinglimits.png</file>
+        <file>Res/ignore.png</file>
+        <file>Res/muscle.png</file>
+        <file>Res/metallization.png</file>
+        <file>Res/hitting.png</file>
+        <file>Res/barrier.png</file>
+        <file>Res/hammer.png</file>
+        <file>Res/startscenebg.png</file>
+        <file>Res/warrior.png</file>
+        <file>Res/warrior_stand.png</file>
+        <file>Res/assassin.png</file>
+        <file>Res/assassin_stand.png</file>
+        <file>Res/assassin_btn.png</file>
+        <file>Res/sakyamuni.png</file>
+        <file>Res/saberdragon.png</file>
+        <file>Res/devildragon.png</file>
+        <file>Res/rolescenebg.png</file>
+        <file>Res/fightscenebg.png</file>
+        <file>Res/chooselevelscenebg.png</file>
+    </qresource>
+</RCC>
